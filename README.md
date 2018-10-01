@@ -4,22 +4,23 @@ A list of applications and tools that make ChromeOS such a great experience. Ful
 ![My ChromeOS](https://i.imgur.com/Ivaea0v.jpg)
 
 ### Contents
-* Hardware  
-* Operating Systems  
-* Applications  
-* Productivity  
+* [Hardware](https://github.com/iamtravisw/my-chrome-os#hardware)  
+* [Operating Systems](https://github.com/iamtravisw/my-chrome-os#hardware)
+  * [ChromeOS]()  
+  * [Linux]()  
+  * [Android]()  
+* [Applications](https://github.com/iamtravisw/my-chrome-os#hardware)  
+* [Productivity](https://github.com/iamtravisw/my-chrome-os#hardware)  
   * Code  
   * Social  
   * Writing  
   * Music  
   * Images  
   * Utilities  
-  * Browsers  
-* Command Line Apps  
-* Preference Panes  
-* Similar Setups  
-* Related  
-* Contributing  
+  * Browsers   
+* [Similar Setups](https://github.com/iamtravisw/my-chrome-os#hardware)  
+* [Related](https://github.com/iamtravisw/my-chrome-os#hardware)  
+* [Contributing](https://github.com/iamtravisw/my-chrome-os#hardware)  
 
 # Hardware
 
@@ -36,13 +37,7 @@ A list of applications and tools that make ChromeOS such a great experience. Ful
 ## Images  
 ## Utilities  
 ## Browsers  
-
-
-# Productivity 
-
-# Command Line Apps
-
-# Preference Panes
+## Productivity 
 
 # Similar Setups
 
