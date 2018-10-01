@@ -43,22 +43,22 @@ A list of applications and tools that make ChromeOS such a great experience. Ful
 ## ChromeOS  
 ChromeOS is what you will have upon unboxing a Chromebook such as the Google Pixelbook. While the operating system in itself is not extremely useful for a developer, the new features that allow you to run Android and Crostini are very powerful additions. [ChromeUnboxed](https://chromeunboxed.com/tips-tricks/) has some really great tips] on getting you transitioned from Mac or PC to a Chromebook.  
 ## Linux  
-Ahh, Linux. This is the bread and butter of the setup for me. Without Linux on ChromeOS I would not own a Pixelbook today. To get Linux setup on a Chromebook is a really simple process now. You do this through Crostini, which is intergrated in with a lot of Chromebooks such as the Pixelbook. For tips and tricks on how to install Crostini, head over to [/r/Crostini](http://reddit.com/r/crostini) on Reddit. The community is extremely helpful.  
+Ahh, Linux. This is the bread and butter of the setup for me. Without Linux on ChromeOS I would not own a Pixelbook today. To get Linux setup on a Chromebook is a really simple process now. You do this through Crostini, which is intergrated in with a lot of Chromebooks such as the Pixelbook. For tips and tricks on how to install Crostini, head over to [r/Crostini](http://reddit.com/r/crostini) on Reddit. The community is extremely helpful.  
 ## Android  
 Finally, Android. You are probably familar with Android by now... It's been around for a while and is extremely popular. Having the ability to run phone and tablet applications from your computer is pretty useful, especially since the Pixelbook in particular has a tablet mode. I use this mostly for running Android applications that work well with my Pixelbook Pen... And shamelessly checking apps such as Instagram.  
 
 # Applications
 
 ## Productivity 
-GIMP (Linux)  
-AutoDesk SketchBook (Android)  
-Gmail (ChromeOS)  
-Docs (ChromeOS)  
-Sheets (ChromeOS0)  
-Keep (ChromeOS)  
-Kdenlive (Linux)  
-Hangouts (ChromeOS)  
-Trello (Android)  
+GIMP (Linux) - Image editor, it's pretty popular and only second to Photoshop (in my humble opinion).  
+AutoDesk SketchBook (Android) - I use this for mocking up new ideas and design and as a white board replacement.  
+Gmail (ChromeOS) - You've got mail.  
+Docs (ChromeOS) - Microsoft Word replacement.  
+Sheets (ChromeOS0) - Microsoft Excel replacement.  
+Keep (ChromeOS) - A wonderful Note application I use with my family. Sharing is easy and it works with Google Home!  
+Kdenlive (Linux) - Video Editor for Linux. Comparable to Finalcut Pro or Adobe Premiere.   
+Hangouts (ChromeOS) - A great chat/ video/ screen sharing tool by Google.  
+Trello (Android) - Story board application.  
 
 ## Code  
 Terminal (Linux)  
@@ -110,7 +110,10 @@ Here you can find more setups by other people that you can take ideas and inspir
 - [Obahareth](https://github.com/obahareth/my-mac-os)'s my-mac-os, where I found inspiration.
 
 # Related
-I will add to this soon.
+[ChromeUnboxed](https://chromeunboxed.com) - A great resource for ChromeOS.  
+[r/Crostini](https://www.reddit.com/r/crostini) - A friendly community of smart, helpful people.  
+[PlayOnLinux](https://www.playonlinux.com/en/) - Have that one app you still need? PlayOnLinux does work on Crostini.  
+
 
 # Contributing
 If you shared a similar setup to this, be it for ChromeOS, Windows or anything else, you can add it in [Similar Setups](https://github.com/iamtravisw/my-chrome-os#similar-setups) section.
