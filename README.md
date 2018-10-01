@@ -5,14 +5,14 @@ A list of applications and tools that make ChromeOS with Crostini such a great e
 
 * Hardware  
 - Applications  
-  ○ Productivity  
-  ○ Code  
-  ○ Social  
-  ○ Writing  
-  ○ Music  
-  ○ Images  
-  ○ Utilities  
-  ○ Browsers  
+* Productivity  
+  * Code  
+  * Social  
+  * Writing  
+  * Music  
+  * Images  
+  * Utilities  
+  * Browsers  
 * Command Line Apps  
 * Preference Panes  
 * Similar Setups  
