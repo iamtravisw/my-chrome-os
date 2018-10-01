@@ -13,8 +13,8 @@ A list of applications and tools that make ChromeOS with Crostini such a great e
   ○ Images  
   ○ Utilities  
   ○ Browsers  
-● Command Line Apps  
-● Preference Panes  
-● Similar Setups  
-● Related  
-● Contributing  
+* Command Line Apps  
+* Preference Panes  
+* Similar Setups  
+* Related  
+* Contributing  
