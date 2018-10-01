@@ -1,5 +1,5 @@
 # my-chrome-os
-A list of applications and tools that make ChromeOS such a great experience. Full disclaimer: I am using a Pixelbook from Google which means in addition to ChromeOS I am running Linux via Crostini. Influenced by: https://github.com/obahareth/my-mac-os 
+A list of applications and tools that make ChromeOS such a great experience. Full disclaimer: I am using a Pixelbook from Google which means in addition to ChromeOS I am running Linux via Crostini and Android. Influenced by: [obahareth](https://github.com/obahareth/my-mac-os).
 
 ![My ChromeOS](https://i.imgur.com/Ivaea0v.jpg)
 
