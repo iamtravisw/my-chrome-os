@@ -50,24 +50,24 @@ Finally, Android. You are probably familar with Android by now... It's been arou
 # Applications
 
 ## Productivity 
-GIMP (Linux) - Image editor, it's pretty popular and only second to Photoshop (in my humble opinion).  
-AutoDesk SketchBook (Android) - I use this for mocking up new ideas and design and as a white board replacement.  
+[GIMP (Linux)](https://www.gimp.org/) - Image editor, it's pretty popular and only second to Photoshop (in my humble opinion).  
+[AutoDesk SketchBook (Android)](https://sketchbook.com/) - I use this for mocking up new ideas and design and as a white board replacement.  
 Gmail (ChromeOS) - You've got mail.  
-Docs (ChromeOS) - Microsoft Word replacement.  
-Sheets (ChromeOS0) - Microsoft Excel replacement.  
-Keep (ChromeOS) - A wonderful Note application I use with my family. Sharing is easy and it works with Google Home!  
-Kdenlive (Linux) - Video Editor for Linux. Comparable to Finalcut Pro or Adobe Premiere.   
-Hangouts (ChromeOS) - A great chat/ video/ screen sharing tool by Google.  
-Trello (Android) - Story board application.  
+[Docs (ChromeOS)](http://docs.google.com) - Microsoft Word replacement.  
+[Sheets (ChromeOS)](http://sheets.google.com) - Microsoft Excel replacement.  
+[Keep (ChromeOS)](http://keep.google.com) - A wonderful Note application I use with my family. Sharing is easy and it works with Google Home!  
+[Kdenlive (Linux)](https://kdenlive.org/en/) - Video Editor for Linux. Comparable to Finalcut Pro or Adobe Premiere.   
+[Hangouts (ChromeOS)](http://hangouts.google.com) - A great chat/ video/ screen sharing tool by Google.  
+[Trello (Android)](http://trello.com) - Story board application.  
 
 ## Code  
 Terminal (Linux) - Terminal is your most useful app. Use it to install Java, Python, MySQL, etc.  
-IntelliJ IDEA Ultimate (Linux) - An amazing IDE that I use for my Java development  
-Visual Studio Code (Linux) - Another amazing *light* code editor. Pairprogramming is made easy with the Share plugin.  
-MySQL-Workbench (Linux) - Though you don't need a GUI for MySQL, I do like to have one in my local environment.  
-GitKraken (Linux) - Git made easy. I use this to share my code on Github.  
-AndroidStudio (Linux) - Standard Android development IDE.  
-Unity (Linux) - I tested if Unity runs on my Pixelbook, so far so good. For game development.    
+[IntelliJ IDEA Ultimate (Linux)](https://www.jetbrains.com/idea/) - An amazing IDE that I use for my Java development  
+[Visual Studio Code (Linux)](https://code.visualstudio.com/) - Another amazing *light* code editor. Pairprogramming is made easy with the Share plugin.  
+[MySQL-Workbench (Linux)](https://www.mysql.com/products/workbench/) - Though you don't need a GUI for MySQL, I do like to have one in my local environment.  
+[GitKraken (Linux)](https://www.gitkraken.com/) - Git made easy. I use this to share my code on Github.  
+[AndroidStudio (Linux)](https://developer.android.com/studio/) - Standard Android development IDE.  
+[Unity (Linux)](https://forum.unity.com/threads/unity-on-linux-release-notes-and-known-issues.350256/) - I tested if Unity runs on my Pixelbook, so far so good. For game development.    
 
 ## Social  
 Instagram (Android)  
@@ -80,7 +80,7 @@ Spotify (Android)
 YouTube (ChromeOS)  
 
 ## Images  
-Google Photos (ChromeOS)  
+[Google Photos (ChromeOS)](http://photos.google.com)  
 
 ## Utilities  
 [Calendar Clock](https://chrome.google.com/webstore/detail/calendar-clock/galgfocamdohgeifjlbefkfpaalankfi?hl=en) (ChromeOS)  
@@ -89,9 +89,9 @@ WiFi (Android)  - I use Google's WiFi app to monitor my wifi occasionally, inste
 TEXT (ChromeOS) - This came with my ChromeOS. It's a simple text editor.  
 
 ## Browsers  
-Chrome (ChromeOS)  
-Firefox (Linux)  
-Chromium (Linux)  
+Chrome (ChromeOS) - Favorite browser, I use this 99% of the time.  
+Firefox (Linux) - Only used for testing websites.  
+[Chromium (Linux)](https://forum.unity.com/threads/unity-on-linux-release-notes-and-known-issues.350256/) - I used this for a while on Linux to run my local web applications.  
 
 # Games
 Hearthstone (Android)  
@@ -107,7 +107,7 @@ A Livescribe Echo pen with a livescribe journal
 # Similar Setups
 Here you can find more setups by other people that you can take ideas and inspiration from.
 - [The original my-mac-os](https://github.com/nikitavoloboev/my-mac-os) 
-- [Obahareth](https://github.com/obahareth/my-mac-os)'s my-mac-os, where I found inspiration.
+- [Obahareth's my-mac-os](https://github.com/obahareth/my-mac-os), where I found inspiration.
 
 # Related
 [ChromeUnboxed](https://chromeunboxed.com) - A great resource for ChromeOS.  
