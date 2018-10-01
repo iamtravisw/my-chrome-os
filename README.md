@@ -3,18 +3,18 @@ A list of applications and tools that make ChromeOS with Crostini such a great e
 
 ![My ChromeOS](https://i.imgur.com/Ivaea0v.jpg)
 
-● Hardware \n
-● Applications \n
-  ○ Productivity
-  ○ Code
-  ○ Social
-  ○ Writing
-  ○ Music
-  ○ Images
-  ○ Utilities
-  ○ Browsers
-● Command Line Apps
-● Preference Panes
-● Similar Setups
-● Related
-● Contributing
+● Hardware  
+● Applications  
+  ○ Productivity  
+  ○ Code  
+  ○ Social  
+  ○ Writing  
+  ○ Music  
+  ○ Images  
+  ○ Utilities  
+  ○ Browsers  
+● Command Line Apps  
+● Preference Panes  
+● Similar Setups  
+● Related  
+● Contributing  
