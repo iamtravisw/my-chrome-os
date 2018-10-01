@@ -6,9 +6,9 @@ A list of applications and tools that make ChromeOS such a great experience. Ful
 ### Contents
 * [Hardware](https://github.com/iamtravisw/my-chrome-os#hardware)  
 * [Operating Systems](https://github.com/iamtravisw/my-chrome-os#operating-systems)
-  * [ChromeOS]()  
-  * [Linux]()  
-  * [Android]()  
+  * [ChromeOS](https://github.com/iamtravisw/my-chrome-os#chromeos)  
+  * [Linux](https://github.com/iamtravisw/my-chrome-os#linux)  
+  * [Android](https://github.com/iamtravisw/my-chrome-os#android)  
 * [Applications](https://github.com/iamtravisw/my-chrome-os#applications)  
 * [Productivity](https://github.com/iamtravisw/my-chrome-os#hardware)  
   * [Code]()  
@@ -18,6 +18,7 @@ A list of applications and tools that make ChromeOS such a great experience. Ful
   * [Images]()  
   * [Utilities]()  
   * [Browsers]()   
+* [On My Desk](https://github.com/iamtravisw/my-chrome-os#on-my-desk)  
 * [Similar Setups](https://github.com/iamtravisw/my-chrome-os#similar-setups)  
 * [Related](https://github.com/iamtravisw/my-chrome-os#related)  
 * [Contributing](https://github.com/iamtravisw/my-chrome-os#contributing)  
@@ -35,7 +36,7 @@ A list of applications and tools that make ChromeOS such a great experience. Ful
 **Dock:** [Inland USB 3.1](http://www.microcenter.com/product/485736/usb-31-(gen-1-type-c)-dock-with-power-delivery)  
 **Extra:** [Google Home Mini](https://store.google.com/product/google_home_mini) to use as wireless speakers instead of having hardwired speakers. If I need more privacy I will use the [Google Pixel Buds](https://store.google.com/product/google_pixel_buds). I also use the [Google Pixelbook Pen](https://store.google.com/product/google_pixelbook_pen) a lot. I use it to draw up ideas for designs I am working on or I'll open a drawing app and use it as a whiteboard replacement. 
 
-**What I love about my hardware:** I really love that my laptop can fold up and become a tablet. I wasn't sure how often I would use this, but as a full time student and worker it's really nice to be able to lay in bed and read my course content. I love that it works well with my other Google products such as my Pixel XL 2. For example, my phone has the ability to unlock my Pixelbook, and I think my Google Pixel Buds can unlock my phone. Finally, The Pixelbook is very light and easy to take with me, plus ChromeOS is pretty secure so getting a virus is not a huge worry right now.  
+**What I love about my hardware:** I love that I can run ChromeOS, Linux and Android applications all three at the same time in harmony. I really love that my laptop can fold up and become a tablet. I wasn't sure how often I would use this, but as a full time student and worker it's really nice to be able to lay in bed and read my course content. I love that it works well with my other Google products such as my Pixel XL 2. For example, my phone has the ability to unlock my Pixelbook, and I think my Google Pixel Buds can unlock my phone. Finally, The Pixelbook is very light and easy to take with me, plus ChromeOS is pretty secure so getting a virus is not a huge worry right now.  
 
 # Operating Systems
 ## ChromeOS  
@@ -46,14 +47,43 @@ Ahh, Linux. This is the bread and butter of the setup for me. Without Linux on C
 Finally, Android. You are probably familar with Android by now... It's been around for a while and is extremely popular. Having the ability to run phone and tablet applications from your computer is pretty useful, especially since the Pixelbook in particular has a tablet mode. I use this mostly for running Android applications that work well with my Pixelbook Pen... And shamelessly checking apps such as Instagram.  
 
 # Applications
-## Code  
-## Social  
-## Writing  
-## Music  
-## Images  
-## Utilities  
-## Browsers  
+
 ## Productivity 
+GIMP (Linux)  
+AutoDesk SketchBook (Android)  
+Gmail (ChromeOS)  
+Calendar Clock (ChromeOS)  
+Google Drive (ChromeOS)  
+Docs (ChromeOS)  
+Sheets (ChromeOS0)  
+Keep (ChromeOS)  
+Kdenlive (Linux)  
+
+## Code  
+Terminal (Linux)  
+IntelliJ IDEA Ultimate (Linux)
+Visual Studio Code (Linux)  
+MySQL-Workbench (Linux)  
+GitKraken (Linux)  
+AndroidStudio (Linux)  
+Unity (Linux)  
+
+## Social  
+Instagram (Android)  
+Twitter (ChromeOS)  
+Facebook (ChromeOS)  
+
+## Writing  
+
+## Music  
+Spotify  
+YouTube  
+
+## Images  
+
+## Utilities  
+
+## Browsers  
 
 # On My Desk
 
