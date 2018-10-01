@@ -3,6 +3,7 @@ A list of applications and tools that make ChromeOS with Crostini such a great e
 
 ![My ChromeOS](https://i.imgur.com/Ivaea0v.jpg)
 
+### Contents
 * Hardware  
 * Operating Systems  
 * Applications  
