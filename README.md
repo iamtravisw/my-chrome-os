@@ -91,14 +91,28 @@ TEXT (ChromeOS)
 ## Browsers  
 Chrome (ChromeOS)  
 Firefox (Linux)  
+Chromium (Linux)  
 
 # Games
-
+Hearthstone (Android)  
+Clash Royale (Android)  
+Pokemon Trading Card Game (Android)  
 
 # On My Desk
+A small personal whiteboard  
+Too many dry erase pens  
+Ball point sharpie and sticky notes  
+A Livescribe Echo pen with a livescribe journal  
 
 # Similar Setups
+Here you can find more setups by other people that you can take ideas and inspiration from.
+- The original my-mac-os(https://github.com/nikitavoloboev/my-mac-os) 
+- [Obahareth](https://github.com/obahareth/my-mac-os)'s my-mac-os, where I found inspiration.
 
 # Related
+I will add to this soon.
 
 # Contributing
+If you shared a similar personal setup to this, be it for ChromeOS, Windows or anything else, you can add it in [Similar Setups](https://github.com/iamtravisw/my-chrome-os#similar-setups) section.
+
+I love finding new awesome tools and apps. If you have a favorite tool or app that you think I missed, please [say it](https://github.com/iamtravisw/my-mac-os/issues/new).
