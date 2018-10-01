@@ -5,22 +5,22 @@ A list of applications and tools that make ChromeOS such a great experience. Ful
 
 ### Contents
 * [Hardware](https://github.com/iamtravisw/my-chrome-os#hardware)  
-* [Operating Systems](https://github.com/iamtravisw/my-chrome-os#hardware)
+* [Operating Systems](https://github.com/iamtravisw/my-chrome-os#operating-systems)
   * [ChromeOS]()  
   * [Linux]()  
   * [Android]()  
-* [Applications](https://github.com/iamtravisw/my-chrome-os#hardware)  
+* [Applications](https://github.com/iamtravisw/my-chrome-os#applications)  
 * [Productivity](https://github.com/iamtravisw/my-chrome-os#hardware)  
-  * Code  
-  * Social  
-  * Writing  
-  * Music  
-  * Images  
-  * Utilities  
-  * Browsers   
-* [Similar Setups](https://github.com/iamtravisw/my-chrome-os#hardware)  
-* [Related](https://github.com/iamtravisw/my-chrome-os#hardware)  
-* [Contributing](https://github.com/iamtravisw/my-chrome-os#hardware)  
+  * [Code]()  
+  * [Social]()  
+  * [Writing]()  
+  * [Music]()  
+  * [Images]()  
+  * [Utilities]()  
+  * [Browsers]()   
+* [Similar Setups](https://github.com/iamtravisw/my-chrome-os#similar-setups)  
+* [Related](https://github.com/iamtravisw/my-chrome-os#related)  
+* [Contributing](https://github.com/iamtravisw/my-chrome-os#contributing)  
 
 # Hardware
 
