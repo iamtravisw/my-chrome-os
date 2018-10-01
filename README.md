@@ -18,6 +18,7 @@ A list of applications and tools that make ChromeOS such a great experience. Ful
   * [Images]()  
   * [Utilities]()  
   * [Browsers]()   
+* [Games](https://github.com/iamtravisw/my-chrome-os#games)  
 * [On My Desk](https://github.com/iamtravisw/my-chrome-os#on-my-desk)  
 * [Similar Setups](https://github.com/iamtravisw/my-chrome-os#similar-setups)  
 * [Related](https://github.com/iamtravisw/my-chrome-os#related)  
@@ -52,16 +53,16 @@ Finally, Android. You are probably familar with Android by now... It's been arou
 GIMP (Linux)  
 AutoDesk SketchBook (Android)  
 Gmail (ChromeOS)  
-Calendar Clock (ChromeOS)  
-Google Drive (ChromeOS)  
 Docs (ChromeOS)  
 Sheets (ChromeOS0)  
 Keep (ChromeOS)  
 Kdenlive (Linux)  
+Hangouts (ChromeOS)  
+Trello (Android)  
 
 ## Code  
 Terminal (Linux)  
-IntelliJ IDEA Ultimate (Linux)
+IntelliJ IDEA Ultimate (Linux)  
 Visual Studio Code (Linux)  
 MySQL-Workbench (Linux)  
 GitKraken (Linux)  
@@ -72,18 +73,27 @@ Unity (Linux)
 Instagram (Android)  
 Twitter (ChromeOS)  
 Facebook (ChromeOS)  
-
-## Writing  
+Reddit (ChromeOS)
 
 ## Music  
-Spotify  
-YouTube  
+Spotify (Android)  
+YouTube (ChromeOS)  
 
 ## Images  
+Google Photos (ChromeOS)  
 
 ## Utilities  
+Calendar Clock (ChromeOS)  
+Google Drive (ChromeOS)  
+WiFi (Android)  
+TEXT (ChromeOS)
 
 ## Browsers  
+Chrome (ChromeOS)  
+Firefox (Linux)  
+
+# Games
+
 
 # On My Desk
 
