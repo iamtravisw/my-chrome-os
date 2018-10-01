@@ -61,13 +61,13 @@ Hangouts (ChromeOS) - A great chat/ video/ screen sharing tool by Google.
 Trello (Android) - Story board application.  
 
 ## Code  
-Terminal (Linux)  
-IntelliJ IDEA Ultimate (Linux)  
-Visual Studio Code (Linux)  
-MySQL-Workbench (Linux)  
-GitKraken (Linux)  
-AndroidStudio (Linux)  
-Unity (Linux)  
+Terminal (Linux) - Terminal is your most useful app. Use it to install Java, Python, MySQL, etc.  
+IntelliJ IDEA Ultimate (Linux) - An amazing IDE that I use for my Java development  
+Visual Studio Code (Linux) - Another amazing *light* code editor. Pairprogramming is made easy with the Share plugin.  
+MySQL-Workbench (Linux) - Though you don't need a GUI for MySQL, I do like to have one in my local environment.  
+GitKraken (Linux) - Git made easy. I use this to share my code on Github.  
+AndroidStudio (Linux) - Standard Android development IDE.  
+Unity (Linux) - I tested if Unity runs on my Pixelbook, so far so good. For game development.    
 
 ## Social  
 Instagram (Android)  
@@ -83,10 +83,10 @@ YouTube (ChromeOS)
 Google Photos (ChromeOS)  
 
 ## Utilities  
-Calendar Clock (ChromeOS)  
+[Calendar Clock](https://chrome.google.com/webstore/detail/calendar-clock/galgfocamdohgeifjlbefkfpaalankfi?hl=en) (ChromeOS)  
 Google Drive (ChromeOS)  
-WiFi (Android)  
-TEXT (ChromeOS)
+WiFi (Android)  - I use Google's WiFi app to monitor my wifi occasionally, instead of SpeedTest.    
+TEXT (ChromeOS) - This came with my ChromeOS. It's a simple text editor.  
 
 ## Browsers  
 Chrome (ChromeOS)  
