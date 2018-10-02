@@ -60,7 +60,7 @@ Gmail (ChromeOS) - You've got mail.
 
 ## Code  
 Terminal (Linux) - Terminal is your most useful app. Use it to install Java, Python, MySQL, etc.  
-[IntelliJ IDEA Ultimate (Linux)](https://www.jetbrains.com/idea/) - An amazing IDE that I use for my Java development  
+[IntelliJ IDEA Ultimate (Linux)](https://www.jetbrains.com/idea/) - An amazing IDE that I use for my Java development.  
 [Visual Studio Code (Linux)](https://code.visualstudio.com/) - Another amazing *light* code editor. Pairprogramming is made easy with the Share plugin.  
 [MySQL-Workbench (Linux)](https://www.mysql.com/products/workbench/) - Though you don't need a GUI for MySQL, I do like to have one in my local environment.  
 [GitKraken (Linux)](https://www.gitkraken.com/) - Git made easy. I use this to share my code on Github.  
