@@ -78,13 +78,13 @@ Spotify (Android)
 YouTube (ChromeOS)  
 [Audacity (Linux)](https://www.audacityteam.org/download/linux/) - I use this for any sound editing I need to do.  
 
-*Note that Crostini does not support audio yet. If you need to do heavy audio editing, you might want to wait for audio to officially be support.*  
+*Note that Crostini does not support audio yet. If you need to do heavy audio editing, you might want to wait for audio to officially be supported.*  
 
 ## Photos & Videos  
 [Google Photos (ChromeOS)](http://photos.google.com)  
 [GIMP (Linux)](https://www.gimp.org/) - Image editor, it's pretty popular and only second to Photoshop (in my humble opinion).  
-[AutoDesk SketchBook (Android)](https://sketchbook.com/) - I use this for mocking up new ideas and design and as a white board replacement.  
-[Kdenlive (Linux)](https://kdenlive.org/en/) - Video Editor for Linux. Comparable to Finalcut Pro or Adobe Premiere.   
+[AutoDesk SketchBook (Android)](https://sketchbook.com/) - I use this for mocking up new ideas, designs and as a white board replacement.  
+[Kdenlive (Linux)](https://kdenlive.org/en/) - Video Editor for Linux. Comparable to FinalCut Pro or Adobe Premiere.   
 
 ## Utilities  
 [Calendar Clock](https://chrome.google.com/webstore/detail/calendar-clock/galgfocamdohgeifjlbefkfpaalankfi?hl=en) (ChromeOS)  
