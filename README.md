@@ -78,6 +78,7 @@ Reddit (ChromeOS)
 ## Music  
 Spotify (Android)  
 YouTube (ChromeOS)  
+[Audacity](https://www.audacityteam.org/download/linux/) - Sound editing.  
 
 ## Images  
 [Google Photos (ChromeOS)](http://photos.google.com)  
