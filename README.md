@@ -28,7 +28,7 @@ A list of applications and tools that make ChromeOS such a great experience. Ful
 **[Pixelbook by Google](https://store.google.com/product/google_pixelbook)**  
 **Operating System:** ChromeOS, Android, Linux.  
 **Displays:** 12.3" LCD (2400x1600) with two additional [24" AOC Monitors](https://www.amazon.com/gp/product/B00C99MUHQ) (1920x1080)  
-**Processor:** 7th Gen Intel® Core™ processor  
+**Processor:** 5th Gen Intel® Core™ processor  
 **Storage:** 128GB, Solid State Drive  
 **Additional Storage:** [Samsung T5 Portable SSD - 500GB - USB 3.1 External SSD](https://www.amazon.com/Samsung-T5-Portable-SSD-MU-PA500B/dp/B073GZBT36/ref=sr_1_5?ie=UTF8&qid=1538423789&sr=8-5&keywords=samsung+ssd&dpID=318I0KrjRKL&preST=_SX300_QL70_&dpSrc=srch), Additional 100GB on Google Drive  
 **Memory:** 8GB Ram  
@@ -100,10 +100,10 @@ Clash Royale (Android)
 Pokemon Trading Card Game (Android)  
 
 # On My Desk
-A small personal whiteboard  
-Too many dry erase pens  
-Ball point sharpie and sticky notes  
-A Livescribe Echo pen with a livescribe journal  
+A small personal whiteboard.  
+Too many dry erase pens.  
+Ball point sharpie and sticky notes.  
+A [Livescribe Echo](http://www.livescribe.com/en-us/smartpen/echo/) pen with a [Livescribe journal](https://store.livescribe.com/paper/black-unlined-journal-2-pack-1-and-2html).  
 
 # Similar Setups
 Here you can find more setups by other people that you can take ideas and inspiration from.
