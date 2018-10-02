@@ -11,13 +11,12 @@ A list of applications and tools that make ChromeOS such a great experience. Ful
   * [Android](https://github.com/iamtravisw/my-chrome-os#android)  
 * [Applications](https://github.com/iamtravisw/my-chrome-os#applications)  
 * [Productivity](https://github.com/iamtravisw/my-chrome-os#hardware)  
-  * [Code]()  
-  * [Social]()  
-  * [Writing]()  
-  * [Music]()  
-  * [Images]()  
-  * [Utilities]()  
-  * [Browsers]()   
+  * [Code](https://github.com/iamtravisw/my-chrome-os#code)  
+  * [Social](https://github.com/iamtravisw/my-chrome-os#social)  
+  * [Music](https://github.com/iamtravisw/my-chrome-os#music)  
+  * [Photos & Videos](https://github.com/iamtravisw/my-chrome-os#images)  
+  * [Utilities](https://github.com/iamtravisw/my-chrome-os#utilities)  
+  * [Browsers](https://github.com/iamtravisw/my-chrome-os#browsers)   
 * [Games](https://github.com/iamtravisw/my-chrome-os#games)  
 * [On My Desk](https://github.com/iamtravisw/my-chrome-os#on-my-desk)  
 * [Similar Setups](https://github.com/iamtravisw/my-chrome-os#similar-setups)  
@@ -50,13 +49,10 @@ Finally, Android. You are probably familar with Android by now... It's been arou
 # Applications
 
 ## Productivity 
-[GIMP (Linux)](https://www.gimp.org/) - Image editor, it's pretty popular and only second to Photoshop (in my humble opinion).  
-[AutoDesk SketchBook (Android)](https://sketchbook.com/) - I use this for mocking up new ideas and design and as a white board replacement.  
-Gmail (ChromeOS) - You've got mail.  
 [Docs (ChromeOS)](http://docs.google.com) - Microsoft Word replacement.  
 [Sheets (ChromeOS)](http://sheets.google.com) - Microsoft Excel replacement.  
+Gmail (ChromeOS) - You've got mail.  
 [Keep (ChromeOS)](http://keep.google.com) - A wonderful Note application I use with my family. Sharing is easy and it works with Google Home!  
-[Kdenlive (Linux)](https://kdenlive.org/en/) - Video Editor for Linux. Comparable to Finalcut Pro or Adobe Premiere.   
 [Hangouts (ChromeOS)](http://hangouts.google.com) - A great chat/ video/ screen sharing tool by Google.  
 [Trello (Android)](http://trello.com) - Story board application.  
 
@@ -80,8 +76,11 @@ Spotify (Android)
 YouTube (ChromeOS)  
 [Audacity (Linux)](https://www.audacityteam.org/download/linux/) - I use this for any sound editing I need to do.  
 
-## Images  
+## Photos & Videos  
 [Google Photos (ChromeOS)](http://photos.google.com)  
+[GIMP (Linux)](https://www.gimp.org/) - Image editor, it's pretty popular and only second to Photoshop (in my humble opinion).  
+[AutoDesk SketchBook (Android)](https://sketchbook.com/) - I use this for mocking up new ideas and design and as a white board replacement.  
+[Kdenlive (Linux)](https://kdenlive.org/en/) - Video Editor for Linux. Comparable to Finalcut Pro or Adobe Premiere.   
 
 ## Utilities  
 [Calendar Clock](https://chrome.google.com/webstore/detail/calendar-clock/galgfocamdohgeifjlbefkfpaalankfi?hl=en) (ChromeOS)  
