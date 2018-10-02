@@ -122,4 +122,4 @@ Here you can find more setups by other people that you can take ideas and inspir
 # Contributing
 If you shared a similar setup to this, be it for ChromeOS, Windows or anything else, you can add it in [Similar Setups](https://github.com/iamtravisw/my-chrome-os#similar-setups) section.
 
-I love finding new awesome tools and apps. If you have a favorite tool or app that you think I missed, please [say it](https://github.com/iamtravisw/my-mac-os/issues/new).
+I love finding new awesome tools and apps. If you have a favorite tool or app that you think I missed, please [say it](https://github.com/iamtravisw/my-chrome-os/issues/new).
