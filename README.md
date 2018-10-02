@@ -54,7 +54,7 @@ Finally, Android. You are probably familar with Android by now... It's been arou
 Gmail (ChromeOS) - You've got mail.  
 [Keep (ChromeOS)](http://keep.google.com) - A wonderful Note application I use with my family. Sharing is easy and it works with Google Home!  
 [Hangouts (ChromeOS)](http://hangouts.google.com) - A great chat/ video/ screen sharing tool by Google.  
-[Trello (Android)](http://trello.com) - Story board application.  
+[Trello (ChromeOS)](http://trello.com) - Story board application.  
 
 ## Code  
 Terminal (Linux) - Terminal is your most useful app. Use it to install Java, Python, MySQL, etc.  
