@@ -14,7 +14,7 @@ A list of applications and tools that make ChromeOS such a great experience. Ful
   * [Code](https://github.com/iamtravisw/my-chrome-os#code)  
   * [Social](https://github.com/iamtravisw/my-chrome-os#social)  
   * [Music](https://github.com/iamtravisw/my-chrome-os#music)  
-  * [Photos & Videos](https://github.com/iamtravisw/my-chrome-os#images)  
+  * [Photos & Videos](https://github.com/iamtravisw/my-chrome-os#photos--videos)  
   * [Utilities](https://github.com/iamtravisw/my-chrome-os#utilities)  
   * [Browsers](https://github.com/iamtravisw/my-chrome-os#browsers)   
 * [Games](https://github.com/iamtravisw/my-chrome-os#games)  
