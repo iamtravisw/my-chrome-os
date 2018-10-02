@@ -63,7 +63,7 @@ Terminal (Linux) - Terminal is your most useful app. Use it to install Java, Pyt
 [MySQL-Workbench (Linux)](https://www.mysql.com/products/workbench/) - Though you don't need a GUI for MySQL, I do like to have one in my local environment.  
 [GitKraken (Linux)](https://www.gitkraken.com/) - Git made easy. I use this to share my code on Github.  
 [AndroidStudio (Linux)](https://developer.android.com/studio/) - Standard Android development IDE.  
-[Unity (Linux)](https://forum.unity.com/threads/unity-on-linux-release-notes-and-known-issues.350256/) - I tested if Unity runs on my Pixelbook, for game development. May want to wait on GPU acceleration.    
+[Unity (Linux)](https://forum.unity.com/threads/unity-on-linux-release-notes-and-known-issues.350256/) - I tested if Unity runs on my Pixelbook, for game development. It runs, however you may want to wait on GPU acceleration if you are going to use a chromebook for any serous game development.    
 
 ## Social  
 Instagram (Android)  
@@ -81,6 +81,8 @@ YouTube (ChromeOS)
 [GIMP (Linux)](https://www.gimp.org/) - Image editor, it's pretty popular and only second to Photoshop (in my humble opinion).  
 [AutoDesk SketchBook (Android)](https://sketchbook.com/) - I use this for mocking up new ideas and design and as a white board replacement.  
 [Kdenlive (Linux)](https://kdenlive.org/en/) - Video Editor for Linux. Comparable to Finalcut Pro or Adobe Premiere.   
+
+*Note that Crostini does not support audio yet. If you need to do heavy audio editing, you might want to wait for audio to officially be support*  
 
 ## Utilities  
 [Calendar Clock](https://chrome.google.com/webstore/detail/calendar-clock/galgfocamdohgeifjlbefkfpaalankfi?hl=en) (ChromeOS)  
