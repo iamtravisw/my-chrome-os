@@ -88,7 +88,7 @@ YouTube (ChromeOS)
 
 ## Utilities  
 [Calendar Clock](https://chrome.google.com/webstore/detail/calendar-clock/galgfocamdohgeifjlbefkfpaalankfi?hl=en) (ChromeOS)  
-Google Drive (ChromeOS)  
+Google Drive (ChromeOS) - Works similarly to Microsoft Calendar/ Clock.  
 WiFi (Android)  - I use Google's WiFi app to monitor my wifi occasionally, instead of SpeedTest.    
 TEXT (ChromeOS) - This came with my ChromeOS. It's a simple text editor.  
 
@@ -111,7 +111,7 @@ A [Livescribe Echo](http://www.livescribe.com/en-us/smartpen/echo/) pen with a [
 # Similar Setups
 Here you can find more setups by other people that you can take ideas and inspiration from.
 - [The original my-mac-os](https://github.com/nikitavoloboev/my-mac-os) 
-- [Obahareth's my-mac-os](https://github.com/obahareth/my-mac-os), where I found inspiration.
+- [Obahareth's my-mac-os](https://github.com/obahareth/my-mac-os)
 
 # Related
 [ChromeUnboxed](https://chromeunboxed.com) - A great resource for ChromeOS.  
