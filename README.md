@@ -63,7 +63,7 @@ Terminal (Linux) - Terminal is your most useful app. Use it to install Java, Pyt
 [MySQL-Workbench (Linux)](https://www.mysql.com/products/workbench/) - Though you don't need a GUI for MySQL, I do like to have one in my local environment.  
 [GitKraken (Linux)](https://www.gitkraken.com/) - Git made easy. I use this to share my code on Github.  
 [AndroidStudio (Linux)](https://developer.android.com/studio/) - Standard Android development IDE.  
-[Unity (Linux)](https://forum.unity.com/threads/unity-on-linux-release-notes-and-known-issues.350256/) - I tested if Unity runs on my Pixelbook, so far so good. For game development.    
+[Unity (Linux)](https://forum.unity.com/threads/unity-on-linux-release-notes-and-known-issues.350256/) - I tested if Unity runs on my Pixelbook, for game development. May want to wait on GPU acceleration.    
 
 ## Social  
 Instagram (Android)  
