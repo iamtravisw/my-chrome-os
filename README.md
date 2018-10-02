@@ -1,5 +1,5 @@
 # my-chrome-os
-A list of applications and tools that make ChromeOS such a great experience. Full disclaimer: I am using a Pixelbook from Google which means in addition to ChromeOS I am running Linux via Crostini and Android. Influenced by: [obahareth](https://github.com/obahareth/my-mac-os).
+A list of applications and tools that make ChromeOS such a great experience. Influenced by: [obahareth](https://github.com/obahareth/my-mac-os). Full disclaimer: I am using a Pixelbook from Google which means in addition to ChromeOS I am running Linux via Crostini and Android.  
 
 ![My ChromeOS](https://i.imgur.com/Ivaea0v.jpg)
 
@@ -37,6 +37,8 @@ A list of applications and tools that make ChromeOS such a great experience. Ful
 **Extra:** [Google Home Mini](https://store.google.com/product/google_home_mini) to use as wireless speakers instead of having hardwired speakers. If I need more privacy I will use the [Google Pixel Buds](https://store.google.com/product/google_pixel_buds). I also use the [Google Pixelbook Pen](https://store.google.com/product/google_pixelbook_pen) a lot. I use it to draw up ideas for designs I am working on or I'll open a drawing app and use it as a whiteboard replacement. 
 
 **What I love about my hardware:** I love that I can run ChromeOS, Linux and Android applications all three at the same time in harmony. I really love that my laptop can fold up and become a tablet. I wasn't sure how often I would use this, but as a full time student and worker it's really nice to be able to lay in bed and read my course content. I love that it works well with my other Google products such as my Pixel XL 2. For example, my phone has the ability to unlock my Pixelbook, and I think my Google Pixel Buds can unlock my phone. Finally, The Pixelbook is very light and easy to take with me, plus ChromeOS is pretty secure so getting a virus is not a huge worry right now.  
+
+**What I don't like:** Honestly, I am just waiting on GPU acceleration and audio support to come to Crostini. Everything else has been a stellar experience.  
 
 # Operating Systems
 ## ChromeOS  
