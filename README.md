@@ -56,6 +56,7 @@ Finally, Android. You are probably familar with Android by now... It's been arou
 Gmail (ChromeOS) - You've got mail.  
 [Keep (ChromeOS)](http://keep.google.com) - A wonderful Note application I use with my family. Sharing is easy and it works with Google Home!  
 [Hangouts (ChromeOS)](http://hangouts.google.com) - A great chat/ video/ screen sharing tool by Google.  
+[Calendar (ChromeOS)](http://calendar.google.com) - With desktop notifications, this becomes very useful.  
 [Trello (ChromeOS)](http://trello.com) - Story board application.  
 
 ## Code  
