@@ -71,7 +71,7 @@ Terminal (Linux) - Terminal is your most useful app. Use it to install Java, Pyt
 
 ## Social  
 Instagram (Android)  
-Twitter (ChromeOS)  
+[Twitter (ChromeOS)](http://twitter.com/iamtravisw)  
 Facebook (ChromeOS)  
 Reddit (ChromeOS)
 
