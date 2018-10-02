@@ -42,7 +42,7 @@ A list of applications and tools that make ChromeOS such a great experience. Inf
 
 # Operating Systems
 ## ChromeOS  
-ChromeOS is what you will have upon unboxing a Chromebook such as the Google Pixelbook. While the operating system in itself is not extremely useful for a developer, the new features that allow you to run Android and Crostini are very powerful additions. [ChromeUnboxed](https://chromeunboxed.com/tips-tricks/) has some really great tips] on getting you transitioned from Mac or PC to a Chromebook.  
+ChromeOS is what you will have upon unboxing a Chromebook such as the Google Pixelbook. While the operating system in itself is not extremely useful for a developer, the new features that allow you to run Android and Crostini are very powerful additions. [ChromeUnboxed](https://chromeunboxed.com/tips-tricks/) has some really great tips on getting you transitioned from Mac or PC to a Chromebook.  
 ## Linux  
 Ahh, Linux. This is the bread and butter of the setup for me. Without Linux on ChromeOS I would not own a Pixelbook today. To get Linux setup on a Chromebook is a really simple process now. You do this through Crostini, which is intergrated in with a lot of Chromebooks such as the Pixelbook. For tips and tricks on how to install Crostini, head over to [r/Crostini](http://reddit.com/r/crostini) on Reddit. The community is extremely helpful.  
 ## Android  
