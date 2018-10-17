@@ -92,12 +92,12 @@ YouTube (ChromeOS)
 Google Drive (ChromeOS) - Works similarly to Microsoft Calendar/ Clock.  
 WiFi (Android)  - I use Google's WiFi app to monitor my wifi occasionally, instead of SpeedTest.    
 TEXT (ChromeOS) - This came with my ChromeOS. It's a simple text editor.  
-[COG](https://chrome.google.com/webstore/detail/cog-system-info-viewer/difcjdggkffcfgcfconafogflmmaadco?hl=en) - Display lots of useful hardware and network info such as CPU usage and memory.  
+[COG (ChromeOS)](https://chrome.google.com/webstore/detail/cog-system-info-viewer/difcjdggkffcfgcfconafogflmmaadco?hl=en) - Display lots of useful hardware and network info such as CPU usage and temperatures.
 
 ## Browsers  
 Chrome (ChromeOS) - Favorite browser, I use this 99% of the time.  
 Firefox (Linux) - Only used for testing websites.  
-[Chromium (Linux)](https://forum.unity.com/threads/unity-on-linux-release-notes-and-known-issues.350256/) - I used this for a while on Linux to run my local web applications.  
+[Chromium (Linux)](https://forum.unity.com/threads/unity-on-linux-release-notes-and-known-issues.350256/) - I used this for a while on Linux to run my local web applications. 
 
 # Games
 Hearthstone (Android)  
