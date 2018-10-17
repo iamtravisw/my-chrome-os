@@ -92,6 +92,7 @@ YouTube (ChromeOS)
 Google Drive (ChromeOS) - Works similarly to Microsoft Calendar/ Clock.  
 WiFi (Android)  - I use Google's WiFi app to monitor my wifi occasionally, instead of SpeedTest.    
 TEXT (ChromeOS) - This came with my ChromeOS. It's a simple text editor.  
+[COG](https://chrome.google.com/webstore/detail/cog-system-info-viewer/difcjdggkffcfgcfconafogflmmaadco?hl=en) - Display lots of useful hardware and network info such as CPU usage and memory.  
 
 ## Browsers  
 Chrome (ChromeOS) - Favorite browser, I use this 99% of the time.  
