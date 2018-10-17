@@ -1,7 +1,7 @@
 # my-chrome-os
 A list of applications and tools that make ChromeOS such a great experience. Influenced by: [obahareth](https://github.com/obahareth/my-mac-os). Full disclaimer: I am using a Pixelbook from Google which means in addition to ChromeOS I am running Linux via Crostini and Android.  
 
-![My ChromeOS](https://i.imgur.com/Ivaea0v.jpg)
+![My ChromeOS](https://i.imgur.com/NFIwBJe.jpg)
 
 ### Contents
 * [Hardware](https://github.com/iamtravisw/my-chrome-os#hardware)  
@@ -88,7 +88,7 @@ YouTube (ChromeOS)
 [Kdenlive (Linux)](https://kdenlive.org/en/) - Video Editor for Linux. Comparable to FinalCut Pro or Adobe Premiere.   
 
 ## Utilities  
-[Calendar Clock](https://chrome.google.com/webstore/detail/calendar-clock/galgfocamdohgeifjlbefkfpaalankfi?hl=en) (ChromeOS)  
+[Calendar Clock (ChromeOS)](https://chrome.google.com/webstore/detail/calendar-clock/galgfocamdohgeifjlbefkfpaalankfi?hl=en)  
 Google Drive (ChromeOS) - Works similarly to Microsoft Calendar/ Clock.  
 WiFi (Android)  - I use Google's WiFi app to monitor my wifi occasionally, instead of SpeedTest.    
 TEXT (ChromeOS) - This came with my ChromeOS. It's a simple text editor.  
